@@ -2,8 +2,6 @@
 
 sometimes passionate about reverse engineering sometimes about game hacking 
 
----
-
 ## Languages
 **Comfortable with:**
 - Go
@@ -14,8 +12,6 @@ sometimes passionate about reverse engineering sometimes about game hacking
 - C/CPP
 - Kotlin
 - Python
-
----
 
 ## Contact
 - **E-Mail:** mune3[at]proton[dot]me  
